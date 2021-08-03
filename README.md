@@ -13,8 +13,9 @@ I'm 16 yo high school student from Poland addicted to coffee. I ❤️ programmi
 ⛏️ I started programming by creating bukkit plugins for game Minecraft. Actually I'm still doing it 😅 <br>
 🔥 Also I'm graphic and UI/UX designer as a hobby. <br>
 
-#### 📫 How to reach me
-✨ Discord - Peridot#4000
+#### 📫 Contact and Links
+✨ Discord - Peridot#4000 <br>
+📈 [CodersRank Profile](https://profile.codersrank.io/user/p3ridot/)
 
 ---
 

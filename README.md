@@ -16,7 +16,7 @@ I'm 16 yo high school student from Poland addicted to coffee. I ❤️ programmi
 
 #### 📫 Contact and Links
 ---
-✨ Discord - Peridot#4000 <br>
+✨ Discord - Peridot#1709 <br>
 📈 [CodersRank Profile](https://profile.codersrank.io/user/p3ridot/)
 
 ---

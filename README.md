@@ -20,4 +20,3 @@ I'm 17 yo high school student from Poland. I love drinking coffe ☕ and yerba m
 ---
 
 [![Peridot Github Stats](https://github-readme-stats.vercel.app/api?username=P3ridot&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3ridot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

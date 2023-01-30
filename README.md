@@ -8,9 +8,9 @@ I'm 17 yo high school student from Poland. I love drinking coffe ☕ and yerba m
 #### 💻 Skills and Hobby
 ---
 🖥️ I'm programming for almost 5 years. My main languages are Java and [Kotlin](https://kotlinlang.org/). <br>
-🌍 I know HTML, CSS and frameworks like [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [React](https://reactjs.org/). <br>
-⛏️ Currently I'm programming plugins to Minecraft using Bukkit API. I started programming just because of it 😅 <br>
-🎨 I sometimes draw when I'm bored...<br>
+🌍 I know web frameworks like [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [React](https://reactjs.org/). <br>
+⛏️ Currently I'm programming plugins to Minecraft using Bukkit API. I actually started programming doing that 😅 <br>
+🎨 I sometimes draw and know some basic UI/UX<br>
 
 #### 📫 Contact and Links
 ---

@@ -14,7 +14,7 @@ I'm 17 yo high school student from Poland. I love drinking coffe ☕ and yerba m
 
 #### 📫 Contact and Links
 ---
-✨ Discord - Peridot#1709 <br>
+✨ Discord - p3ridot <br>
 📈 [CodersRank Profile](https://profile.codersrank.io/user/p3ridot/)
 
 ---

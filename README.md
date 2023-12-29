@@ -3,14 +3,14 @@
 
 #### ☕ About Me
 ---
-I'm 17 yo high school student from Poland. I love drinking coffe ☕ and yerba mate 🧉. Programming is my main hobby - I want invest my future with it. To relax I'm playing games like Minecraft & Valorant.
+I'm 18 years old high school student from Poland. I love drinking coffe ☕ and yerba mate 🧉. Programming is my main hobby, but I also work as freelance developer.
 
 #### 💻 Skills and Hobby
 ---
-🖥️ I'm programming for almost 5 years. My main languages are Java and [Kotlin](https://kotlinlang.org/). <br>
-🌍 I know web frameworks like [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) and [React](https://reactjs.org/). <br>
-⛏️ Currently I'm programming plugins to Minecraft using Bukkit API. I actually started programming doing that 😅 <br>
-🎨 I sometimes draw and know some basic UI/UX<br>
+🖥️ I'm programming for almost 5 years. My core languages are Java and [Kotlin](https://kotlinlang.org/). <br>
+🌍 I've worked with [Ktor](https://ktor.io/) for backed and  [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/) & [React](https://reactjs.org/) for frontend - I'm basically fullstack developer <br>
+⛏️ Currently I'm programming plugins to Minecraft using Bukkit and this is how I started my journey with programming <br>
+🎨 I sometimes draw or create designs and know some basics of UI/UX<br>
 
 #### 📫 Contact and Links
 ---
